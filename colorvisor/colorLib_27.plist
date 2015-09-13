@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>White</key>
+	<array>
+		<integer>255</integer>
+		<integer>255</integer>
+		<integer>255</integer>
+	</array>
+	<key>Red</key>
+	<array>
+		<integer>255</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>Rose</key>
+	<array>
+		<integer>255</integer>
+		<integer>0</integer>
+		<integer>127</integer>
+	</array>
+	<key>Orange</key>
+	<array>
+		<integer>255</integer>
+		<integer>127</integer>
+		<integer>0</integer>
+	</array>
+	<key>Magenta</key>
+	<array>
+		<integer>255</integer>
+		<integer>0</integer>
+		<integer>255</integer>
+	</array>
+	<key>Yellow</key>
+	<array>
+		<integer>255</integer>
+		<integer>255</integer>
+		<integer>0</integer>
+	</array>
+	<key>Pink (unverified)</key>
+	<array>
+		<integer>255</integer>
+		<integer>127</integer>
+		<integer>127</integer>
+	</array>
+	<key>Light Purple (unverified)</key>
+	<array>
+		<integer>255</integer>
+		<integer>127</integer>
+		<integer>255</integer>
+	</array>
+	<key>Dark Red</key>
+	<array>
+		<integer>127</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>Violet</key>
+	<array>
+		<integer>127</integer>
+		<integer>0</integer>
+		<integer>255</integer>
+	</array>
+	<key>Chartreuse</key>
+	<array>
+		<integer>127</integer>
+		<integer>255</integer>
+		<integer>0</integer>
+	</array>
+	<key>Dark Purple (unverified)</key>
+	<array>
+		<integer>127</integer>
+		<integer>0</integer>
+		<integer>127</integer>
+	</array>
+	<key>Light Cyan (unverified)</key>
+	<array>
+		<integer>127</integer>
+		<integer>255</integer>
+		<integer>255</integer>
+	</array>
+	<key>Green-Yellow (unverified)</key>
+	<array>
+		<integer>127</integer>
+		<integer>255</integer>
+		<integer>127</integer>
+	</array>
+	<key>Olive</key>
+	<array>
+		<integer>127</integer>
+		<integer>127</integer>
+		<integer>0</integer>
+	</array>
+	<key>Blue</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>255</integer>
+	</array>
+	<key>Dark Blue</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>127</integer>
+	</array>
+	<key>Green</key>
+	<array>
+		<integer>0</integer>
+		<integer>255</integer>
+		<integer>0</integer>
+	</array>
+	<key>Dark Green</key>
+	<array>
+		<integer>0</integer>
+		<integer>127</integer>
+		<integer>0</integer>
+	</array>
+	<key>Black</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>Cyan</key>
+	<array>
+		<integer>0</integer>
+		<integer>255</integer>
+		<integer>255</integer>
+	</array>
+	<key>Azure</key>
+	<array>
+		<integer>0</integer>
+		<integer>127</integer>
+		<integer>255</integer>
+	</array>
+	<key>Spring Green</key>
+	<array>
+		<integer>0</integer>
+		<integer>255</integer>
+		<integer>127</integer>
+	</array>
+	<key>Grey</key>
+	<array>
+		<integer>127</integer>
+		<integer>127</integer>
+		<integer>127</integer>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+-settings file
+    RGB vs CIE LAB
+
+-add sliders for exposure/white balance to main interface
+    -first check to see if device supports it
+    -then unhide the sliders if it does
+    -set maxwhitegain/exposure
+
+
+
+
+move
+AVCaptureSession *session = [[AVCaptureSession alloc] init];
+session.sessionPreset = AVCaptureSessionPresetMedium;
+
+to a synthesized variable w property so that we don't have an instance of it
+
+move the start of the camera from initializeCamera to a startCamera function
+then create a pause camera function as well to pause it
+
+
+
+take care of viewDidDisappear, viewWillAppear - try to smooth out large library load
+
+
+
+
+enableCIE
+-SettingsViewController
+    pickerview listing
+
+ViewController
+-onClickGetRGB
+    NSArray* matchingColor
+    labels
+

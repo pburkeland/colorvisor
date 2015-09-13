@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>black</key>
+        <array>
+            <integer>0</integer>
+            <integer>0</integer>
+            <integer>0</integer>
+        </array>
+        <key>white</key>
+        <array>
+            <integer>255</integer>
+            <integer>255</integer>
+            <integer>255</integer>
+        </array>
+        <key>Navy</key>
+        <array>
+            <integer>0</integer>
+            <integer>0</integer>
+            <integer>63</integer>
+        </array>
+        <key>Dark Blue</key>
+        <array>
+            <integer>0</integer>
+            <integer>0</integer>
+            <integer>127</integer>
+        </array>
+        <key>Medium Blue</key>
+        <array>
+            <integer>0</integer>
+            <integer>0</integer>
+            <integer>191</integer>
+        </array>
+        <key>Blue</key>
+        <array>
+            <integer>0</integer>
+            <integer>0</integer>
+            <integer>255</integer>
+        </array>
+        <key>Dark Green</key>
+        <array>
+            <integer>0</integer>
+            <integer>63</integer>
+            <integer>0</integer>
+        </array>
+        <key>Dark teal</key>
+        <array>
+            <integer>0</integer>
+            <integer>63</integer>
+            <integer>63</integer>
+        </array>
+        <key>Dark sky blue</key>
+        <array>
+            <integer>0</integer>
+            <integer>63</integer>
+            <integer>127</integer>
+        </array>
+        <key>Medium sky blue</key>
+        <array>
+            <integer>0</integer>
+            <integer>63</integer>
+            <integer>191</integer>
+        </array>
+        <key>Sky blue</key>
+        <array>
+            <integer>0</integer>
+            <integer>63</integer>
+            <integer>255</integer>
+        </array>
+        <key>Medium Green</key>
+        <array>
+            <integer>0</integer>
+            <integer>127</integer>
+            <integer>0</integer>
+        </array>
+        <key>Forest green</key>
+        <array>
+            <integer>0</integer>
+            <integer>127</integer>
+            <integer>63</integer>
+        </array>
+        <key>Teal</key>
+        <array>
+            <integer>0</integer>
+            <integer>127</integer>
+            <integer>127</integer>
+        </array>
+        <key>Dark azure</key>
+        <array>
+            <integer>0</integer>
+            <integer>127</integer>
+            <integer>191</integer>
+        </array>
+        <key>Azure</key>
+        <array>
+            <integer>0</integer>
+            <integer>127</integer>
+            <integer>255</integer>
+        </array>
+        <key>Green</key>
+        <array>
+            <integer>0</integer>
+            <integer>191</integer>
+            <integer>0</integer>
+        </array>
+        <key>Dark Spring Green</key>
+        <array>
+            <integer>0</integer>
+            <integer>191</integer>
+            <integer>63</integer>
+        </array>
+        <key>Dark sea foam </key>
+        <array>
+            <integer>0</integer>
+            <integer>191</integer>
+            <integer>127</integer>
+        </array>
+        <key>Turquoise</key>
+        <array>
+            <integer>0</integer>
+            <integer>191</integer>
+            <integer>191</integer>
+        </array>
+        <key>Light Sky Blue</key>
+        <array>
+            <integer>0</integer>
+            <integer>191</integer>
+            <integer>255</integer>
+        </array>
+        <key>Neon Green</key>
+        <array>
+            <integer>0</integer>
+            <integer>255</integer>
+            <integer>0</integer>
+        </array>
+        <key>Light Green</key>
+        <array>
+            <integer>0</integer>
+            <integer>255</integer>
+            <integer>63</integer>
+        </array>
+        <key>Spring Green</key>
+        <array>
+            <integer>0</integer>
+            <integer>255</integer>
+            <integer>127</integer>
+        </array>
+        <key>Aqua</key>
+        <array>
+            <integer>0</integer>
+            <integer>255</integer>
+            <integer>191</integer>
+        </array>
+        <key>Cyan</key>
+        <array>
+            <integer>0</integer>
+            <integer>255</integer>
+            <integer>255</integer>
+        </array>
+        <key>Merlot</key>
+        <array>
+            <integer>63</integer>
+            <integer>0</integer>
+            <integer>0</integer>
+        </array>
+        <key>Dark Purple</key>
+        <array>
+            <integer>63</integer>
+            <integer>0</integer>
+            <integer>63</integer>
+        </array>
+        <key>Indigo</key>
+        <array>
+            <integer>63</integer>
+            <integer>0</integer>
+            <integer>127</integer>
+        </array>
+        <key>Blue Violet</key>
+        <array>
+            <integer>63</integer>
+            <integer>0</integer>
+            <integer>191</integer>
+        </array>
+        <key>Neon Blue</key>
+        <array>
+            <integer>63</integer>
+            <integer>0</integer>
+            <integer>255</integer>
+        </array>
+        <key>Brown green</key>
+        <array>
+            <integer>63</integer>
+            <integer>63</integer>
+            <integer>0</integer>
+        </array>
+        <key>Dark Grey</key>
+        <array>
+            <integer>63</integer>
+            <integer>63</integer>
+            <integer>63</integer>
+        </array>
+        <key>Light Navy</key>
+        <array>
+            <integer>63</integer>
+            <integer>63</integer>
+            <integer>127</integer>
+        </array>
+        <key>Dark Cerulean</key>
+        <array>
+            <integer>63</integer>
+            <integer>63</integer>
+            <integer>191</integer>
+        </array>
+        <key>Cerulean</key>
+        <array>
+            <integer>63</integer>
+            <integer>63</integer>
+            <integer>255</integer>
+        </array>
+        <key>Warm Evergreen</key>
+        <array>
+            <integer>63</integer>
+            <integer>127</integer>
+            <integer>0</integer>
+        </array>
+        <key>Evergreen </key>
+        <array>
+            <integer>63</integer>
+            <integer>127</integer>
+            <integer>63</integer>
+        </array>
+        <key>Dark Gray</key>
+        <array>
+            <integer>63</integer>
+            <integer>127</integer>
+            <integer>127</integer>
+        </array>
+        <key>Grey Dark Cyan</key>
+        <array>
+            <integer>63</integer>
+            <integer>127</integer>
+            <integer>191</integer>
+        </array>
+        <key>Light Cerulean</key>
+        <array>
+            <integer>63</integer>
+            <integer>127</integer>
+            <integer>255</integer>
+        </array>
+        <key>Dark Grass</key>
+        <array>
+            <integer>63</integer>
+            <integer>191</integer>
+            <integer>0</integer>
+        </array>
+        <key>Grass</key>
+        <array>
+            <integer>63</integer>
+            <integer>191</integer>
+            <integer>63</integer>
+        </array>
+        <key>Dark Mint</key>
+        <array>
+            <integer>63</integer>
+            <integer>191</integer>
+            <integer>127</integer>
+        </array>
+        <key>Dark Aqua</key>
+        <array>
+            <integer>63</integer>
+            <integer>191</integer>
+            <integer>191</integer>
+        </array>
+        <key>Dark Baby Blue</key>
+        <array>
+            <integer>63</integer>
+            <integer>191</integer>
+            <integer>255</integer>
+        </array>
+        <key>Harlequin</key>
+        <array>
+            <integer>63</integer>
+            <integer>255</integer>
+            <integer>0</integer>
+        </array>
+        <key>Light Lime Green</key>
+        <array>
+            <integer>63</integer>
+            <integer>255</integer>
+            <integer>63</integer>
+        </array>
+        <key>Pastel Green</key>
+        <array>
+            <integer>63</integer>
+            <integer>255</integer>
+            <integer>127</integer>
+        </array>
+        <key>Seafoam</key>
+        <array>
+            <integer>63</integer>
+            <integer>255</integer>
+            <integer>191</integer>
+        </array>
+        <key>Neon Aqua</key>
+        <array>
+            <integer>63</integer>
+            <integer>255</integer>
+            <integer>255</integer>
+        </array>
+        <key>Medium Red</key>
+        <array>
+            <integer>127</integer>
+            <integer>0</integer>
+            <integer>0</integer>
+        </array>
+        <key>Eggplant</key>
+        <array>
+            <integer>127</integer>
+            <integer>0</integer>
+            <integer>63</integer>
+        </array>
+        <key>Purple</key>
+        <array>
+            <integer>127</integer>
+            <integer>0</integer>
+            <integer>127</integer>
+        </array>
+        <key>Violet</key>
+        <array>
+            <integer>127</integer>
+            <integer>0</integer>
+            <integer>191</integer>
+        </array>
+        <key>Blue Violet</key>
+        <array>
+            <integer>127</integer>
+            <integer>0</integer>
+            <integer>255</integer>
+        </array>
+        <key>Brown</key>
+        <array>
+            <integer>127</integer>
+            <integer>63</integer>
+            <integer>0</integer>
+        </array>
+        <key>Pink brown</key>
+        <array>
+            <integer>127</integer>
+            <integer>63</integer>
+            <integer>63</integer>
+        </array>
+        <key>Eggplant</key>
+        <array>
+            <integer>127</integer>
+            <integer>63</integer>
+            <integer>127</integer>
+        </array>
+        <key>Dark Eggplant</key>
+        <array>
+            <integer>127</integer>
+            <integer>63</integer>
+            <integer>191</integer>
+        </array>
+        <key>Blue Violet</key>
+        <array>
+            <integer>127</integer>
+            <integer>63</integer>
+            <integer>255</integer>
+        </array>
+        <key>Olive</key>
+        <array>
+            <integer>127</integer>
+            <integer>127</integer>
+            <integer>0</integer>
+        </array>
+        <key>Green Brown</key>
+        <array>
+            <integer>127</integer>
+            <integer>127</integer>
+            <integer>63</integer>
+        </array>
+        <key>Medium Grey</key>
+        <array>
+            <integer>127</integer>
+            <integer>127</integer>
+            <integer>127</integer>
+        </array>
+        <key>Grey Lavender</key>
+        <array>
+            <integer>127</integer>
+            <integer>127</integer>
+            <integer>191</integer>
+        </array>
+        <key>Light Blue Violet</key>
+        <array>
+            <integer>127</integer>
+            <integer>127</integer>
+            <integer>255</integer>
+        </array>
+        <key>Green</key>
+        <array>
+            <integer>127</integer>
+            <integer>191</integer>
+            <integer>0</integer>
+        </array>
+        <key>Light Olive</key>
+        <array>
+            <integer>127</integer>
+            <integer>191</integer>
+            <integer>63</integer>
+        </array>
+        <key>Light Evergreen</key>
+        <array>
+            <integer>127</integer>
+            <integer>191</integer>
+            <integer>127</integer>
+        </array>
+        <key>Teal Gray</key>
+        <array>
+            <integer>127</integer>
+            <integer>191</integer>
+            <integer>191</integer>
+        </array>
+        <key>Baby Blue</key>
+        <array>
+            <integer>127</integer>
+            <integer>191</integer>
+            <integer>255</integer>
+        </array>
+        <key>Chartreuse </key>
+        <array>
+            <integer>127</integer>
+            <integer>255</integer>
+            <integer>0</integer>
+        </array>
+        <key>Bright Grass</key>
+        <array>
+            <integer>127</integer>
+            <integer>255</integer>
+            <integer>63</integer>
+        </array>
+        <key>Screamin Green</key>
+        <array>
+            <integer>127</integer>
+            <integer>255</integer>
+            <integer>127</integer>
+        </array>
+        <key>mint green</key>
+        <array>
+            <integer>127</integer>
+            <integer>255</integer>
+            <integer>191</integer>
+        </array>
+        <key>Pale Cyan</key>
+        <array>
+            <integer>127</integer>
+            <integer>255</integer>
+            <integer>255</integer>
+        </array>
+        <key>Red</key>
+        <array>
+            <integer>191</integer>
+            <integer>0</integer>
+            <integer>0</integer>
+        </array>
+        <key>Dark pink</key>
+        <array>
+            <integer>191</integer>
+            <integer>0</integer>
+            <integer>63</integer>
+        </array>
+        <key>Bright Eggplant</key>
+        <array>
+            <integer>191</integer>
+            <integer>0</integer>
+            <integer>127</integer>
+        </array>
+        <key>Magenta</key>
+        <array>
+            <integer>191</integer>
+            <integer>0</integer>
+            <integer>191</integer>
+        </array>
+        <key>Purple Blue</key>
+        <array>
+            <integer>191</integer>
+            <integer>0</integer>
+            <integer>255</integer>
+        </array>
+        <key>Burnt Orange</key>
+        <array>
+            <integer>191</integer>
+            <integer>63</integer>
+            <integer>0</integer>
+        </array>
+        <key>Dark Salmon</key>
+        <array>
+            <integer>191</integer>
+            <integer>63</integer>
+            <integer>63</integer>
+        </array>
+        <key>Light Plum</key>
+        <array>
+            <integer>191</integer>
+            <integer>63</integer>
+            <integer>127</integer>
+        </array>
+        <key>Warm Purple</key>
+        <array>
+            <integer>191</integer>
+            <integer>63</integer>
+            <integer>191</integer>
+        </array>
+        <key>Light Purple Blue</key>
+        <array>
+            <integer>191</integer>
+            <integer>63</integer>
+            <integer>255</integer>
+        </array>
+        <key>Hazel</key>
+        <array>
+            <integer>191</integer>
+            <integer>127</integer>
+            <integer>0</integer>
+        </array>
+        <key>Sienna</key>
+        <array>
+            <integer>191</integer>
+            <integer>127</integer>
+            <integer>63</integer>
+        </array>
+        <key>Dusty rose</key>
+        <array>
+            <integer>191</integer>
+            <integer>127</integer>
+            <integer>127</integer>
+        </array>
+        <key>Lilac</key>
+        <array>
+            <integer>191</integer>
+            <integer>127</integer>
+            <integer>191</integer>
+        </array>
+        <key>Pale Purple Blue</key>
+        <array>
+            <integer>191</integer>
+            <integer>127</integer>
+            <integer>255</integer>
+        </array>
+        <key>Pea Soup</key>
+        <array>
+            <integer>191</integer>
+            <integer>191</integer>
+            <integer>0</integer>
+        </array>
+        <key>Light Pea Soup</key>
+        <array>
+            <integer>191</integer>
+            <integer>191</integer>
+            <integer>63</integer>
+        </array>
+        <key>Pale Olive</key>
+        <array>
+            <integer>191</integer>
+            <integer>191</integer>
+            <integer>127</integer>
+        </array>
+        <key>Light Grey</key>
+        <array>
+            <integer>191</integer>
+            <integer>191</integer>
+            <integer>191</integer>
+        </array>
+        <key>Pastel Lavender</key>
+        <array>
+            <integer>191</integer>
+            <integer>191</integer>
+            <integer>255</integer>
+        </array>
+        <key>Lime</key>
+        <array>
+            <integer>191</integer>
+            <integer>255</integer>
+            <integer>0</integer>
+        </array>
+        <key>Light Lime</key>
+        <array>
+            <integer>191</integer>
+            <integer>255</integer>
+            <integer>63</integer>
+        </array>
+        <key>Pastel green</key>
+        <array>
+            <integer>191</integer>
+            <integer>255</integer>
+            <integer>127</integer>
+        </array>
+        <key>Pastel Mint</key>
+        <array>
+            <integer>191</integer>
+            <integer>255</integer>
+            <integer>191</integer>
+        </array>
+        <key>Pastel Aqua</key>
+        <array>
+            <integer>191</integer>
+            <integer>255</integer>
+            <integer>255</integer>
+        </array>
+        <key>Red</key>
+        <array>
+            <integer>255</integer>
+            <integer>0</integer>
+            <integer>0</integer>
+        </array>
+        <key>Red Pink</key>
+        <array>
+            <integer>255</integer>
+            <integer>0</integer>
+            <integer>63</integer>
+        </array>
+        <key>Rose</key>
+        <array>
+            <integer>255</integer>
+            <integer>0</integer>
+            <integer>127</integer>
+        </array>
+        <key>Vivid Magenta</key>
+        <array>
+            <integer>255</integer>
+            <integer>0</integer>
+            <integer>191</integer>
+        </array>
+        <key>Neon Purple</key>
+        <array>
+            <integer>255</integer>
+            <integer>0</integer>
+            <integer>255</integer>
+        </array>
+        <key>Orange Red</key>
+        <array>
+            <integer>255</integer>
+            <integer>63</integer>
+            <integer>0</integer>
+        </array>
+        <key>Pink Red</key>
+        <array>
+            <integer>255</integer>
+            <integer>63</integer>
+            <integer>63</integer>
+        </array>
+        <key>Pink</key>
+        <array>
+            <integer>255</integer>
+            <integer>63</integer>
+            <integer>127</integer>
+        </array>
+        <key>Pink Purple</key>
+        <array>
+            <integer>255</integer>
+            <integer>63</integer>
+            <integer>191</integer>
+        </array>
+        <key>Bright Lavender</key>
+        <array>
+            <integer>255</integer>
+            <integer>63</integer>
+            <integer>255</integer>
+        </array>
+        <key>Orange</key>
+        <array>
+            <integer>255</integer>
+            <integer>127</integer>
+            <integer>0</integer>
+        </array>
+        <key>Lobster</key>
+        <array>
+            <integer>255</integer>
+            <integer>127</integer>
+            <integer>63</integer>
+        </array>
+        <key>Salmon</key>
+        <array>
+            <integer>255</integer>
+            <integer>127</integer>
+            <integer>127</integer>
+        </array>
+        <key>Light Pink</key>
+        <array>
+            <integer>255</integer>
+            <integer>127</integer>
+            <integer>191</integer>
+        </array>
+        <key>Lavender</key>
+        <array>
+            <integer>255</integer>
+            <integer>127</integer>
+            <integer>255</integer>
+        </array>
+        <key>Macaroni</key>
+        <array>
+            <integer>255</integer>
+            <integer>191</integer>
+            <integer>0</integer>
+        </array>
+        <key>Marigold</key>
+        <array>
+            <integer>255</integer>
+            <integer>191</integer>
+            <integer>63</integer>
+        </array>
+        <key>Peach</key>
+        <array>
+            <integer>255</integer>
+            <integer>191</integer>
+            <integer>127</integer>
+        </array>
+        <key>Baby Pink</key>
+        <array>
+            <integer>255</integer>
+            <integer>191</integer>
+            <integer>191</integer>
+        </array>
+        <key>Pastel Lavender</key>
+        <array>
+            <integer>255</integer>
+            <integer>191</integer>
+            <integer>255</integer>
+        </array>
+        <key>Yellow</key>
+        <array>
+            <integer>255</integer>
+            <integer>255</integer>
+            <integer>0</integer>
+        </array>
+        <key>Light yellow</key>
+        <array>
+            <integer>255</integer>
+            <integer>255</integer>
+            <integer>63</integer>
+        </array>
+        <key>Buttercream</key>
+        <array>
+            <integer>255</integer>
+            <integer>255</integer>
+            <integer>127</integer>
+        </array>
+        <key>pale yellow</key>
+        <array>
+            <integer>255</integer>
+            <integer>255</integer>
+            <integer>191</integer>
+        </array>
+    </dict>
+</plist>

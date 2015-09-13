@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Mahogany</key>
+    <array>
+        <integer>205</integer>
+        <integer>74</integer>
+        <integer>74</integer>
+    </array>
+    <key>Fuzzy Wuzzy Brown</key>
+    <array>
+        <integer>204</integer>
+        <integer>102</integer>
+        <integer>102</integer>
+    </array>
+    <key>Chestnut</key>
+    <array>
+        <integer>188</integer>
+        <integer>93</integer>
+        <integer>88</integer>
+    </array>
+    <key>Red Orange</key>
+    <array>
+        <integer>255</integer>
+        <integer>83</integer>
+        <integer>73</integer>
+    </array>
+    <key>Sunset Orange</key>
+    <array>
+        <integer>253</integer>
+        <integer>94</integer>
+        <integer>83</integer>
+    </array>
+    <key>Bittersweet</key>
+    <array>
+        <integer>253</integer>
+        <integer>124</integer>
+        <integer>110</integer>
+    </array>
+    <key>Melon</key>
+    <array>
+        <integer>253</integer>
+        <integer>188</integer>
+        <integer>180</integer>
+    </array>
+    <key>Outrageous Orange</key>
+    <array>
+        <integer>255</integer>
+        <integer>110</integer>
+        <integer>74</integer>
+    </array>
+    <key>Vivid Tangerine</key>
+    <array>
+        <integer>255</integer>
+        <integer>160</integer>
+        <integer>137</integer>
+    </array>
+    <key>Burnt Sienna</key>
+    <array>
+        <integer>234</integer>
+        <integer>126</integer>
+        <integer>93</integer>
+    </array>
+    <key>Brown</key>
+    <array>
+        <integer>180</integer>
+        <integer>103</integer>
+        <integer>77</integer>
+    </array>
+    <key>Sepia</key>
+    <array>
+        <integer>165</integer>
+        <integer>105</integer>
+        <integer>79</integer>
+    </array>
+    <key>Orange</key>
+    <array>
+        <integer>255</integer>
+        <integer>117</integer>
+        <integer>56</integer>
+    </array>
+    <key>Burnt Orange</key>
+    <array>
+        <integer>255</integer>
+        <integer>127</integer>
+        <integer>73</integer>
+    </array>
+    <key>Copper</key>
+    <array>
+        <integer>221</integer>
+        <integer>148</integer>
+        <integer>117</integer>
+    </array>
+    <key>Mango Tango</key>
+    <array>
+        <integer>255</integer>
+        <integer>130</integer>
+        <integer>67</integer>
+    </array>
+    <key>Atomic Tangerine</key>
+    <array>
+        <integer>255</integer>
+        <integer>164</integer>
+        <integer>116</integer>
+    </array>
+    <key>Beaver</key>
+    <array>
+        <integer>159</integer>
+        <integer>129</integer>
+        <integer>112</integer>
+    </array>
+    <key>Antique Brass</key>
+    <array>
+        <integer>205</integer>
+        <integer>149</integer>
+        <integer>117</integer>
+    </array>
+    <key>Desert Sand</key>
+    <array>
+        <integer>239</integer>
+        <integer>205</integer>
+        <integer>184</integer>
+    </array>
+    <key>Raw Sienna</key>
+    <array>
+        <integer>214</integer>
+        <integer>138</integer>
+        <integer>89</integer>
+    </array>
+    <key>Tumbleweed</key>
+    <array>
+        <integer>222</integer>
+        <integer>170</integer>
+        <integer>136</integer>
+    </array>
+    <key>Tan</key>
+    <array>
+        <integer>250</integer>
+        <integer>167</integer>
+        <integer>108</integer>
+    </array>
+    <key>Peach</key>
+    <array>
+        <integer>255</integer>
+        <integer>207</integer>
+        <integer>171</integer>
+    </array>
+    <key>Macaroni and Cheese</key>
+    <array>
+        <integer>255</integer>
+        <integer>189</integer>
+        <integer>136</integer>
+    </array>
+    <key>Apricot</key>
+    <array>
+        <integer>253</integer>
+        <integer>217</integer>
+        <integer>181</integer>
+    </array>
+    <key>Neon Carrot</key>
+    <array>
+        <integer>255</integer>
+        <integer>163</integer>
+        <integer>67</integer>
+    </array>
+    <key>Almond</key>
+    <array>
+        <integer>239</integer>
+        <integer>219</integer>
+        <integer>197</integer>
+    </array>
+    <key>Yellow Orange</key>
+    <array>
+        <integer>255</integer>
+        <integer>182</integer>
+        <integer>83</integer>
+    </array>
+    <key>Gold</key>
+    <array>
+        <integer>231</integer>
+        <integer>198</integer>
+        <integer>151</integer>
+    </array>
+    <key>Shadow</key>
+    <array>
+        <integer>138</integer>
+        <integer>121</integer>
+        <integer>93</integer>
+    </array>
+    <key>Banana Mania</key>
+    <array>
+        <integer>250</integer>
+        <integer>231</integer>
+        <integer>181</integer>
+    </array>
+    <key>Sunglow</key>
+    <array>
+        <integer>255</integer>
+        <integer>207</integer>
+        <integer>72</integer>
+    </array>
+    <key>Goldenrod</key>
+    <array>
+        <integer>252</integer>
+        <integer>217</integer>
+        <integer>117</integer>
+    </array>
+    <key>Dandelion</key>
+    <array>
+        <integer>253</integer>
+        <integer>219</integer>
+        <integer>109</integer>
+    </array>
+    <key>Yellow</key>
+    <array>
+        <integer>252</integer>
+        <integer>232</integer>
+        <integer>131</integer>
+    </array>
+    <key>Green Yellow</key>
+    <array>
+        <integer>240</integer>
+        <integer>232</integer>
+        <integer>145</integer>
+    </array>
+    <key>Spring Green</key>
+    <array>
+        <integer>236</integer>
+        <integer>234</integer>
+        <integer>190</integer>
+    </array>
+    <key>Olive Green</key>
+    <array>
+        <integer>186</integer>
+        <integer>184</integer>
+        <integer>108</integer>
+    </array>
+    <key>Laser Lemon</key>
+    <array>
+        <integer>253</integer>
+        <integer>252</integer>
+        <integer>116</integer>
+    </array>
+    <key>Unmellow Yellow</key>
+    <array>
+        <integer>253</integer>
+        <integer>252</integer>
+        <integer>116</integer>
+    </array>
+    <key>Canary</key>
+    <array>
+        <integer>255</integer>
+        <integer>255</integer>
+        <integer>153</integer>
+    </array>
+    <key>Yellow Green</key>
+    <array>
+        <integer>197</integer>
+        <integer>227</integer>
+        <integer>132</integer>
+    </array>
+    <key>Inch Worm</key>
+    <array>
+        <integer>178</integer>
+        <integer>236</integer>
+        <integer>93</integer>
+    </array>
+    <key>Asparagus</key>
+    <array>
+        <integer>135</integer>
+        <integer>169</integer>
+        <integer>107</integer>
+    </array>
+    <key>Granny Smith Apple</key>
+    <array>
+        <integer>168</integer>
+        <integer>228</integer>
+        <integer>160</integer>
+    </array>
+    <key>Electric Lime</key>
+    <array>
+        <integer>29</integer>
+        <integer>249</integer>
+        <integer>20</integer>
+    </array>
+    <key>Screamin Green</key>
+    <array>
+        <integer>118</integer>
+        <integer>255</integer>
+        <integer>122</integer>
+    </array>
+    <key>Fern</key>
+    <array>
+        <integer>113</integer>
+        <integer>188</integer>
+        <integer>120</integer>
+    </array>
+    <key>Forest Green</key>
+    <array>
+        <integer>109</integer>
+        <integer>174</integer>
+        <integer>129</integer>
+    </array>
+    <key>Sea Green</key>
+    <array>
+        <integer>159</integer>
+        <integer>226</integer>
+        <integer>191</integer>
+    </array>
+    <key>Green</key>
+    <array>
+        <integer>28</integer>
+        <integer>172</integer>
+        <integer>120</integer>
+    </array>
+    <key>Mountain Meadow</key>
+    <array>
+        <integer>48</integer>
+        <integer>186</integer>
+        <integer>143</integer>
+    </array>
+    <key>Shamrock</key>
+    <array>
+        <integer>69</integer>
+        <integer>206</integer>
+        <integer>162</integer>
+    </array>
+    <key>Jungle Green</key>
+    <array>
+        <integer>59</integer>
+        <integer>176</integer>
+        <integer>143</integer>
+    </array>
+    <key>Caribbean Green</key>
+    <array>
+        <integer>28</integer>
+        <integer>211</integer>
+        <integer>162</integer>
+    </array>
+    <key>Tropical Rain Forest</key>
+    <array>
+        <integer>23</integer>
+        <integer>128</integer>
+        <integer>109</integer>
+    </array>
+    <key>Pine Green</key>
+    <array>
+        <integer>21</integer>
+        <integer>128</integer>
+        <integer>120</integer>
+    </array>
+    <key>Robin Egg Blue</key>
+    <array>
+        <integer>31</integer>
+        <integer>206</integer>
+        <integer>203</integer>
+    </array>
+    <key>Aquamarine</key>
+    <array>
+        <integer>120</integer>
+        <integer>219</integer>
+        <integer>226</integer>
+    </array>
+    <key>Turquoise Blue</key>
+    <array>
+        <integer>119</integer>
+        <integer>221</integer>
+        <integer>231</integer>
+    </array>
+    <key>Sky Blue</key>
+    <array>
+        <integer>128</integer>
+        <integer>218</integer>
+        <integer>235</integer>
+    </array>
+    <key>Outer Space</key>
+    <array>
+        <integer>65</integer>
+        <integer>74</integer>
+        <integer>76</integer>
+    </array>
+    <key>Blue Green</key>
+    <array>
+        <integer>25</integer>
+        <integer>158</integer>
+        <integer>189</integer>
+    </array>
+    <key>Pacific Blue</key>
+    <array>
+        <integer>28</integer>
+        <integer>169</integer>
+        <integer>201</integer>
+    </array>
+    <key>Cerulean</key>
+    <array>
+        <integer>29</integer>
+        <integer>172</integer>
+        <integer>214</integer>
+    </array>
+    <key>Cornflower</key>
+    <array>
+        <integer>154</integer>
+        <integer>206</integer>
+        <integer>235</integer>
+    </array>
+    <key>Midnight Blue</key>
+    <array>
+        <integer>26</integer>
+        <integer>72</integer>
+        <integer>118</integer>
+    </array>
+    <key>Navy Blue</key>
+    <array>
+        <integer>25</integer>
+        <integer>116</integer>
+        <integer>210</integer>
+    </array>
+    <key>Denim</key>
+    <array>
+        <integer>43</integer>
+        <integer>108</integer>
+        <integer>196</integer>
+    </array>
+    <key>Blue</key>
+    <array>
+        <integer>31</integer>
+        <integer>117</integer>
+        <integer>254</integer>
+    </array>
+    <key>Periwinkle</key>
+    <array>
+        <integer>197</integer>
+        <integer>208</integer>
+        <integer>230</integer>
+    </array>
+    <key>Cadet Blue</key>
+    <array>
+        <integer>176</integer>
+        <integer>183</integer>
+        <integer>198</integer>
+    </array>
+    <key>Indigo</key>
+    <array>
+        <integer>93</integer>
+        <integer>118</integer>
+        <integer>203</integer>
+    </array>
+    <key>Wild Blue Yonder</key>
+    <array>
+        <integer>162</integer>
+        <integer>173</integer>
+        <integer>208</integer>
+    </array>
+    <key>Manatee</key>
+    <array>
+        <integer>151</integer>
+        <integer>154</integer>
+        <integer>170</integer>
+    </array>
+    <key>Blue Bell</key>
+    <array>
+        <integer>173</integer>
+        <integer>173</integer>
+        <integer>214</integer>
+    </array>
+    <key>Blue Violet</key>
+    <array>
+        <integer>115</integer>
+        <integer>102</integer>
+        <integer>189</integer>
+    </array>
+    <key>Purple Heart</key>
+    <array>
+        <integer>116</integer>
+        <integer>66</integer>
+        <integer>200</integer>
+    </array>
+    <key>Royal Purple</key>
+    <array>
+        <integer>120</integer>
+        <integer>81</integer>
+        <integer>169</integer>
+    </array>
+    <key>Purple Mountains Majesty</key>
+    <array>
+        <integer>157</integer>
+        <integer>129</integer>
+        <integer>186</integer>
+    </array>
+    <key>Violet (Purple)</key>
+    <array>
+        <integer>146</integer>
+        <integer>110</integer>
+        <integer>174</integer>
+    </array>
+    <key>Wisteria</key>
+    <array>
+        <integer>205</integer>
+        <integer>164</integer>
+        <integer>222</integer>
+    </array>
+    <key>Vivid Violet</key>
+    <array>
+        <integer>143</integer>
+        <integer>80</integer>
+        <integer>157</integer>
+    </array>
+    <key>Fuchsia</key>
+    <array>
+        <integer>195</integer>
+        <integer>100</integer>
+        <integer>197</integer>
+    </array>
+    <key>Shocking Pink</key>
+    <array>
+        <integer>251</integer>
+        <integer>126</integer>
+        <integer>253</integer>
+    </array>
+    <key>Pink Flamingo</key>
+    <array>
+        <integer>252</integer>
+        <integer>116</integer>
+        <integer>253</integer>
+    </array>
+    <key>Plum</key>
+    <array>
+        <integer>142</integer>
+        <integer>69</integer>
+        <integer>133</integer>
+    </array>
+    <key>Hot Magenta</key>
+    <array>
+        <integer>255</integer>
+        <integer>29</integer>
+        <integer>206</integer>
+    </array>
+    <key>Purple Pizzazz</key>
+    <array>
+        <integer>255</integer>
+        <integer>29</integer>
+        <integer>206</integer>
+    </array>
+    <key>Razzle Dazzle Rose</key>
+    <array>
+        <integer>255</integer>
+        <integer>72</integer>
+        <integer>208</integer>
+    </array>
+    <key>Orchid</key>
+    <array>
+        <integer>230</integer>
+        <integer>168</integer>
+        <integer>215</integer>
+    </array>
+    <key>Red Violet</key>
+    <array>
+        <integer>192</integer>
+        <integer>68</integer>
+        <integer>143</integer>
+    </array>
+    <key>Eggplant</key>
+    <array>
+        <integer>110</integer>
+        <integer>81</integer>
+        <integer>96</integer>
+    </array>
+    <key>Cerise</key>
+    <array>
+        <integer>221</integer>
+        <integer>68</integer>
+        <integer>146</integer>
+    </array>
+    <key>Wild Strawberry</key>
+    <array>
+        <integer>255</integer>
+        <integer>67</integer>
+        <integer>164</integer>
+    </array>
+    <key>Magenta</key>
+    <array>
+        <integer>246</integer>
+        <integer>100</integer>
+        <integer>175</integer>
+    </array>
+    <key>Lavender</key>
+    <array>
+        <integer>252</integer>
+        <integer>180</integer>
+        <integer>213</integer>
+    </array>
+    <key>Cotton Candy</key>
+    <array>
+        <integer>255</integer>
+        <integer>188</integer>
+        <integer>217</integer>
+    </array>
+    <key>Violet Red</key>
+    <array>
+        <integer>247</integer>
+        <integer>83</integer>
+        <integer>148</integer>
+    </array>
+    <key>Carnation Pink</key>
+    <array>
+        <integer>255</integer>
+        <integer>170</integer>
+        <integer>204</integer>
+    </array>
+    <key>Razzmatazz</key>
+    <array>
+        <integer>227</integer>
+        <integer>37</integer>
+        <integer>107</integer>
+    </array>
+    <key>Piggy Pink</key>
+    <array>
+        <integer>253</integer>
+        <integer>215</integer>
+        <integer>228</integer>
+    </array>
+    <key>Jazzberry Jam</key>
+    <array>
+        <integer>202</integer>
+        <integer>55</integer>
+        <integer>103</integer>
+    </array>
+    <key>Blush</key>
+    <array>
+        <integer>222</integer>
+        <integer>93</integer>
+        <integer>131</integer>
+    </array>
+    <key>Tickle Me Pink</key>
+    <array>
+        <integer>252</integer>
+        <integer>137</integer>
+        <integer>172</integer>
+    </array>
+    <key>Pink Sherbet</key>
+    <array>
+        <integer>247</integer>
+        <integer>128</integer>
+        <integer>161</integer>
+    </array>
+    <key>Maroon</key>
+    <array>
+        <integer>200</integer>
+        <integer>56</integer>
+        <integer>90</integer>
+    </array>
+    <key>Red</key>
+    <array>
+        <integer>238</integer>
+        <integer>32</integer>
+        <integer>77</integer>
+    </array>
+    <key>Radical Red</key>
+    <array>
+        <integer>255</integer>
+        <integer>73</integer>
+        <integer>108</integer>
+    </array>
+    <key>Mauvelous</key>
+    <array>
+        <integer>239</integer>
+        <integer>152</integer>
+        <integer>170</integer>
+    </array>
+    <key>Wild Watermelon</key>
+    <array>
+        <integer>252</integer>
+        <integer>108</integer>
+        <integer>133</integer>
+    </array>
+    <key>Scarlet</key>
+    <array>
+        <integer>252</integer>
+        <integer>40</integer>
+        <integer>71</integer>
+    </array>
+    <key>Salmon</key>
+    <array>
+        <integer>255</integer>
+        <integer>155</integer>
+        <integer>170</integer>
+    </array>
+    <key>Brick Red</key>
+    <array>
+        <integer>203</integer>
+        <integer>65</integer>
+        <integer>84</integer>
+    </array>
+    <key>White</key>
+    <array>
+        <integer>237</integer>
+        <integer>237</integer>
+        <integer>237</integer>
+    </array>
+    <key>Timberwolf</key>
+    <array>
+        <integer>219</integer>
+        <integer>215</integer>
+        <integer>210</integer>
+    </array>
+    <key>Silver</key>
+    <array>
+        <integer>205</integer>
+        <integer>197</integer>
+        <integer>194</integer>
+    </array>
+    <key>Gray</key>
+    <array>
+        <integer>149</integer>
+        <integer>145</integer>
+        <integer>140</integer>
+    </array>
+    <key>Black</key>
+    <array>
+        <integer>35</integer>
+        <integer>35</integer>
+        <integer>35</integer>
+    </array>
+</dict>
+</plist>

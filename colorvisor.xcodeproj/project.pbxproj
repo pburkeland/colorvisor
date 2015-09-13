@@ -1,0 +1,639 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DA25059C1A83F19900BE71EF /* next_steps.txt in Resources */ = {isa = PBXBuildFile; fileRef = DA25059B1A83F19900BE71EF /* next_steps.txt */; };
+		DA25059F1A84E7F800BE71EF /* cameraController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA25059E1A84E7F800BE71EF /* cameraController.m */; };
+		DA2B43031A89CF41006217E1 /* colorRGB_colorvisor125.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA2B43021A89CF41006217E1 /* colorRGB_colorvisor125.plist */; };
+		DA430DF51A7B6F94008A09FC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DA430DF41A7B6F94008A09FC /* main.m */; };
+		DA430DF81A7B6F94008A09FC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DA430DF71A7B6F94008A09FC /* AppDelegate.m */; };
+		DA430DFB1A7B6F94008A09FC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA430DFA1A7B6F94008A09FC /* ViewController.m */; };
+		DA430DFE1A7B6F94008A09FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA430DFC1A7B6F94008A09FC /* Main.storyboard */; };
+		DA430E031A7B6F94008A09FC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA430E011A7B6F94008A09FC /* LaunchScreen.xib */; };
+		DA430E0F1A7B6F94008A09FC /* colorvisorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DA430E0E1A7B6F94008A09FC /* colorvisorTests.m */; };
+		DA430E191A7B70A0008A09FC /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = DA430E181A7B70A0008A09FC /* Settings.bundle */; };
+		DA430E211A7B8D3D008A09FC /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA430E1C1A7B8D3D008A09FC /* AVFoundation.framework */; };
+		DA430E221A7B8D3D008A09FC /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA430E1D1A7B8D3D008A09FC /* CoreMedia.framework */; };
+		DA430E231A7B8D3D008A09FC /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA430E1E1A7B8D3D008A09FC /* CoreVideo.framework */; };
+		DA430E241A7B8D3D008A09FC /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA430E1F1A7B8D3D008A09FC /* ImageIO.framework */; };
+		DA430E251A7B8D3D008A09FC /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA430E201A7B8D3D008A09FC /* QuartzCore.framework */; };
+		DA430E271A7BC1AE008A09FC /* crosshair1.png in Resources */ = {isa = PBXBuildFile; fileRef = DA430E261A7BC1AE008A09FC /* crosshair1.png */; };
+		DA430E291A7C85C6008A09FC /* colorMapper.m in Sources */ = {isa = PBXBuildFile; fileRef = DA430E281A7C85C6008A09FC /* colorMapper.m */; };
+		DA4742EE1A8A8EFE00BB51CA /* colorvisor_1024.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4742ED1A8A8EFE00BB51CA /* colorvisor_1024.png */; };
+		DA4743091A8A938C00BB51CA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA4743081A8A938C00BB51CA /* Images.xcassets */; };
+		DA47430B1A8A944B00BB51CA /* Icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = DA47430A1A8A944B00BB51CA /* Icon-57.png */; };
+		DA47430D1A8A948B00BB51CA /* Icon-57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA47430C1A8A948B00BB51CA /* Icon-57@2x.png */; };
+		DA4743191A8A9A3E00BB51CA /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = DA47430F1A8A9A3E00BB51CA /* Icon-40.png */; };
+		DA47431A1A8A9A3E00BB51CA /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743101A8A9A3E00BB51CA /* Icon-40@2x.png */; };
+		DA47431B1A8A9A3E00BB51CA /* Icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743111A8A9A3E00BB51CA /* Icon-40@3x.png */; };
+		DA47431C1A8A9A3E00BB51CA /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743121A8A9A3E00BB51CA /* Icon-60@2x.png */; };
+		DA47431D1A8A9A3E00BB51CA /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743131A8A9A3E00BB51CA /* Icon-60@3x.png */; };
+		DA47431E1A8A9A3E00BB51CA /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743141A8A9A3E00BB51CA /* Icon-76.png */; };
+		DA47431F1A8A9A3E00BB51CA /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743151A8A9A3E00BB51CA /* Icon-76@2x.png */; };
+		DA4743201A8A9A3E00BB51CA /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743161A8A9A3E00BB51CA /* Icon-Small.png */; };
+		DA4743211A8A9A3E00BB51CA /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743171A8A9A3E00BB51CA /* Icon-Small@2x.png */; };
+		DA4743221A8A9A3E00BB51CA /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743181A8A9A3E00BB51CA /* Icon-Small@3x.png */; };
+		DA4743241A8A9B7800BB51CA /* colorvisor_320x480.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743231A8A9B7800BB51CA /* colorvisor_320x480.png */; };
+		DA4743261A8A9BAB00BB51CA /* colorvisor_640x960.png in Resources */ = {isa = PBXBuildFile; fileRef = DA4743251A8A9BAB00BB51CA /* colorvisor_640x960.png */; };
+		DA7475961A8E4D540038290B /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7475951A8E4D540038290B /* SettingsViewController.m */; };
+		DA86C92A1A961F1000CF75E8 /* colorLAB_SherwinWilliams.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA86C9291A961F1000CF75E8 /* colorLAB_SherwinWilliams.plist */; };
+		DA86C92C1A96243300CF75E8 /* colorLAB_Crayola120.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA86C92B1A96243300CF75E8 /* colorLAB_Crayola120.plist */; };
+		DA86C92E1A9625FE00CF75E8 /* colorLAB_colorvisor125.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA86C92D1A9625FE00CF75E8 /* colorLAB_colorvisor125.plist */; };
+		DA86C9301A962B1D00CF75E8 /* colorLAB_PantoneCoated.plist in Resources */ = {isa = PBXBuildFile; fileRef = DA86C92F1A962B1D00CF75E8 /* colorLAB_PantoneCoated.plist */; };
+		DAAECBEA1A7DAB73002B8D4D /* colorRGB_PantoneCoated.plist in Resources */ = {isa = PBXBuildFile; fileRef = DAAECBE91A7DAB73002B8D4D /* colorRGB_PantoneCoated.plist */; };
+		DAAECBEC1A7E2242002B8D4D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DAAECBEB1A7E2242002B8D4D /* CoreGraphics.framework */; };
+		DAAECBEE1A7E2249002B8D4D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DAAECBED1A7E2249002B8D4D /* Foundation.framework */; };
+		DAAECBF01A7E2250002B8D4D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DAAECBEF1A7E2250002B8D4D /* UIKit.framework */; };
+		DAC7AFA21A8CB03A002EDBB3 /* colorvisor-568h.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC7AFA01A8CB03A002EDBB3 /* colorvisor-568h.png */; };
+		DAC7AFA31A8CB03A002EDBB3 /* colorvisor-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DAC7AFA11A8CB03A002EDBB3 /* colorvisor-568h@2x.png */; };
+		DAE223E81A953C2D003D529F /* colorRGB_SherwinWilliams.plist in Resources */ = {isa = PBXBuildFile; fileRef = DAE223E71A953C2D003D529F /* colorRGB_SherwinWilliams.plist */; };
+		DAFEA3A61A921E3300CFCA30 /* colorRGB_Crayola120.plist in Resources */ = {isa = PBXBuildFile; fileRef = DAFEA3A51A921E3300CFCA30 /* colorRGB_Crayola120.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DA430E091A7B6F94008A09FC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DA430DE71A7B6F94008A09FC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DA430DEE1A7B6F94008A09FC;
+			remoteInfo = colorvisor;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DA25059B1A83F19900BE71EF /* next_steps.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = next_steps.txt; sourceTree = "<group>"; };
+		DA25059D1A84E7F800BE71EF /* cameraController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cameraController.h; sourceTree = "<group>"; };
+		DA25059E1A84E7F800BE71EF /* cameraController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cameraController.m; sourceTree = "<group>"; };
+		DA2B43021A89CF41006217E1 /* colorRGB_colorvisor125.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colorRGB_colorvisor125.plist; sourceTree = "<group>"; };
+		DA430DEF1A7B6F94008A09FC /* colorvisor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = colorvisor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA430DF31A7B6F94008A09FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA430DF41A7B6F94008A09FC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DA430DF61A7B6F94008A09FC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DA430DF71A7B6F94008A09FC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DA430DF91A7B6F94008A09FC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		DA430DFA1A7B6F94008A09FC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = ViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		DA430DFD1A7B6F94008A09FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DA430E021A7B6F94008A09FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		DA430E081A7B6F94008A09FC /* colorvisorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = colorvisorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA430E0D1A7B6F94008A09FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA430E0E1A7B6F94008A09FC /* colorvisorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = colorvisorTests.m; sourceTree = "<group>"; };
+		DA430E181A7B70A0008A09FC /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		DA430E1C1A7B8D3D008A09FC /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		DA430E1D1A7B8D3D008A09FC /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		DA430E1E1A7B8D3D008A09FC /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
+		DA430E1F1A7B8D3D008A09FC /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		DA430E201A7B8D3D008A09FC /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		DA430E261A7BC1AE008A09FC /* crosshair1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crosshair1.png; sourceTree = "<group>"; };
+		DA430E281A7C85C6008A09FC /* colorMapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = colorMapper.m; sourceTree = "<group>"; };
+		DA430E2A1A7C85DF008A09FC /* colorMapper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = colorMapper.h; sourceTree = "<group>"; };
+		DA4742ED1A8A8EFE00BB51CA /* colorvisor_1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = colorvisor_1024.png; sourceTree = "<group>"; };
+		DA4743081A8A938C00BB51CA /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		DA47430A1A8A944B00BB51CA /* Icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-57.png"; path = "AppIcon.appiconset/Icon-57.png"; sourceTree = "<group>"; };
+		DA47430C1A8A948B00BB51CA /* Icon-57@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-57@2x.png"; path = "AppIcon.appiconset/Icon-57@2x.png"; sourceTree = "<group>"; };
+		DA47430F1A8A9A3E00BB51CA /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40.png"; sourceTree = "<group>"; };
+		DA4743101A8A9A3E00BB51CA /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		DA4743111A8A9A3E00BB51CA /* Icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@3x.png"; sourceTree = "<group>"; };
+		DA4743121A8A9A3E00BB51CA /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		DA4743131A8A9A3E00BB51CA /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		DA4743141A8A9A3E00BB51CA /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76.png"; sourceTree = "<group>"; };
+		DA4743151A8A9A3E00BB51CA /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		DA4743161A8A9A3E00BB51CA /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		DA4743171A8A9A3E00BB51CA /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		DA4743181A8A9A3E00BB51CA /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
+		DA4743231A8A9B7800BB51CA /* colorvisor_320x480.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = colorvisor_320x480.png; sourceTree = "<group>"; };
+		DA4743251A8A9BAB00BB51CA /* colorvisor_640x960.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = colorvisor_640x960.png; sourceTree = "<group>"; };
+		DA7475941A8E4D540038290B /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		DA7475951A8E4D540038290B /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = SettingsViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		DA86C9291A961F1000CF75E8 /* colorLAB_SherwinWilliams.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colorLAB_SherwinWilliams.plist; sourceTree = "<group>"; };
+		DA86C92B1A96243300CF75E8 /* colorLAB_Crayola120.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colorLAB_Crayola120.plist; sourceTree = "<group>"; };
+		DA86C92D1A9625FE00CF75E8 /* colorLAB_colorvisor125.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colorLAB_colorvisor125.plist; sourceTree = "<group>"; };
+		DA86C92F1A962B1D00CF75E8 /* colorLAB_PantoneCoated.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colorLAB_PantoneCoated.plist; sourceTree = "<group>"; };
+		DAAECBE91A7DAB73002B8D4D /* colorRGB_PantoneCoated.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colorRGB_PantoneCoated.plist; sourceTree = "<group>"; };
+		DAAECBEB1A7E2242002B8D4D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		DAAECBED1A7E2249002B8D4D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		DAAECBEF1A7E2250002B8D4D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		DAC7AFA01A8CB03A002EDBB3 /* colorvisor-568h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "colorvisor-568h.png"; sourceTree = "<group>"; };
+		DAC7AFA11A8CB03A002EDBB3 /* colorvisor-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "colorvisor-568h@2x.png"; sourceTree = "<group>"; };
+		DAE223E71A953C2D003D529F /* colorRGB_SherwinWilliams.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colorRGB_SherwinWilliams.plist; sourceTree = "<group>"; };
+		DAFEA3A51A921E3300CFCA30 /* colorRGB_Crayola120.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = colorRGB_Crayola120.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DA430DEC1A7B6F94008A09FC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DAAECBEC1A7E2242002B8D4D /* CoreGraphics.framework in Frameworks */,
+				DAAECBF01A7E2250002B8D4D /* UIKit.framework in Frameworks */,
+				DA430E231A7B8D3D008A09FC /* CoreVideo.framework in Frameworks */,
+				DA430E211A7B8D3D008A09FC /* AVFoundation.framework in Frameworks */,
+				DAAECBEE1A7E2249002B8D4D /* Foundation.framework in Frameworks */,
+				DA430E221A7B8D3D008A09FC /* CoreMedia.framework in Frameworks */,
+				DA430E241A7B8D3D008A09FC /* ImageIO.framework in Frameworks */,
+				DA430E251A7B8D3D008A09FC /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DA430E051A7B6F94008A09FC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DA430DE61A7B6F94008A09FC = {
+			isa = PBXGroup;
+			children = (
+				DAAECBEF1A7E2250002B8D4D /* UIKit.framework */,
+				DAAECBED1A7E2249002B8D4D /* Foundation.framework */,
+				DAAECBEB1A7E2242002B8D4D /* CoreGraphics.framework */,
+				DA430E1C1A7B8D3D008A09FC /* AVFoundation.framework */,
+				DA430E1D1A7B8D3D008A09FC /* CoreMedia.framework */,
+				DA430E1E1A7B8D3D008A09FC /* CoreVideo.framework */,
+				DA430E1F1A7B8D3D008A09FC /* ImageIO.framework */,
+				DA430E201A7B8D3D008A09FC /* QuartzCore.framework */,
+				DA430DF11A7B6F94008A09FC /* colorvisor */,
+				DA430E0B1A7B6F94008A09FC /* colorvisorTests */,
+				DA430DF01A7B6F94008A09FC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DA430DF01A7B6F94008A09FC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DA430DEF1A7B6F94008A09FC /* colorvisor.app */,
+				DA430E081A7B6F94008A09FC /* colorvisorTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DA430DF11A7B6F94008A09FC /* colorvisor */ = {
+			isa = PBXGroup;
+			children = (
+				DA47430E1A8A9A2A00BB51CA /* Icons */,
+				DA923ECD1B0686DF006479F2 /* Images */,
+				DA430DF61A7B6F94008A09FC /* AppDelegate.h */,
+				DA430DF71A7B6F94008A09FC /* AppDelegate.m */,
+				DA25059D1A84E7F800BE71EF /* cameraController.h */,
+				DA25059E1A84E7F800BE71EF /* cameraController.m */,
+				DA430E2A1A7C85DF008A09FC /* colorMapper.h */,
+				DA430E281A7C85C6008A09FC /* colorMapper.m */,
+				DA25059B1A83F19900BE71EF /* next_steps.txt */,
+				DA4743081A8A938C00BB51CA /* Images.xcassets */,
+				DA430DF91A7B6F94008A09FC /* ViewController.h */,
+				DA430DFA1A7B6F94008A09FC /* ViewController.m */,
+				DA7475941A8E4D540038290B /* SettingsViewController.h */,
+				DA7475951A8E4D540038290B /* SettingsViewController.m */,
+				DA430DFC1A7B6F94008A09FC /* Main.storyboard */,
+				DA430E181A7B70A0008A09FC /* Settings.bundle */,
+				DA430E011A7B6F94008A09FC /* LaunchScreen.xib */,
+				DA430DF21A7B6F94008A09FC /* Supporting Files */,
+				DA86C92D1A9625FE00CF75E8 /* colorLAB_colorvisor125.plist */,
+				DA86C92B1A96243300CF75E8 /* colorLAB_Crayola120.plist */,
+				DA86C92F1A962B1D00CF75E8 /* colorLAB_PantoneCoated.plist */,
+				DA86C9291A961F1000CF75E8 /* colorLAB_SherwinWilliams.plist */,
+				DA2B43021A89CF41006217E1 /* colorRGB_colorvisor125.plist */,
+				DAFEA3A51A921E3300CFCA30 /* colorRGB_Crayola120.plist */,
+				DAAECBE91A7DAB73002B8D4D /* colorRGB_PantoneCoated.plist */,
+				DAE223E71A953C2D003D529F /* colorRGB_SherwinWilliams.plist */,
+			);
+			path = colorvisor;
+			sourceTree = "<group>";
+		};
+		DA430DF21A7B6F94008A09FC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DA430DF31A7B6F94008A09FC /* Info.plist */,
+				DA430DF41A7B6F94008A09FC /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DA430E0B1A7B6F94008A09FC /* colorvisorTests */ = {
+			isa = PBXGroup;
+			children = (
+				DA430E0E1A7B6F94008A09FC /* colorvisorTests.m */,
+				DA430E0C1A7B6F94008A09FC /* Supporting Files */,
+			);
+			path = colorvisorTests;
+			sourceTree = "<group>";
+		};
+		DA430E0C1A7B6F94008A09FC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DA430E0D1A7B6F94008A09FC /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DA47430E1A8A9A2A00BB51CA /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				DA4742ED1A8A8EFE00BB51CA /* colorvisor_1024.png */,
+				DA47430F1A8A9A3E00BB51CA /* Icon-40.png */,
+				DA4743101A8A9A3E00BB51CA /* Icon-40@2x.png */,
+				DA4743111A8A9A3E00BB51CA /* Icon-40@3x.png */,
+				DA4743121A8A9A3E00BB51CA /* Icon-60@2x.png */,
+				DA4743131A8A9A3E00BB51CA /* Icon-60@3x.png */,
+				DA4743141A8A9A3E00BB51CA /* Icon-76.png */,
+				DA4743151A8A9A3E00BB51CA /* Icon-76@2x.png */,
+				DA4743161A8A9A3E00BB51CA /* Icon-Small.png */,
+				DA4743171A8A9A3E00BB51CA /* Icon-Small@2x.png */,
+				DA4743181A8A9A3E00BB51CA /* Icon-Small@3x.png */,
+				DA47430C1A8A948B00BB51CA /* Icon-57@2x.png */,
+				DA47430A1A8A944B00BB51CA /* Icon-57.png */,
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
+		DA923ECD1B0686DF006479F2 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				DA4743231A8A9B7800BB51CA /* colorvisor_320x480.png */,
+				DA4743251A8A9BAB00BB51CA /* colorvisor_640x960.png */,
+				DAC7AFA01A8CB03A002EDBB3 /* colorvisor-568h.png */,
+				DAC7AFA11A8CB03A002EDBB3 /* colorvisor-568h@2x.png */,
+				DA430E261A7BC1AE008A09FC /* crosshair1.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DA430DEE1A7B6F94008A09FC /* colorvisor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DA430E121A7B6F94008A09FC /* Build configuration list for PBXNativeTarget "colorvisor" */;
+			buildPhases = (
+				DA430DEB1A7B6F94008A09FC /* Sources */,
+				DA430DEC1A7B6F94008A09FC /* Frameworks */,
+				DA430DED1A7B6F94008A09FC /* Resources */,
+				DA7475931A8E247B0038290B /* Run Script */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = colorvisor;
+			productName = colorvisor;
+			productReference = DA430DEF1A7B6F94008A09FC /* colorvisor.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DA430E071A7B6F94008A09FC /* colorvisorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DA430E151A7B6F94008A09FC /* Build configuration list for PBXNativeTarget "colorvisorTests" */;
+			buildPhases = (
+				DA430E041A7B6F94008A09FC /* Sources */,
+				DA430E051A7B6F94008A09FC /* Frameworks */,
+				DA430E061A7B6F94008A09FC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DA430E0A1A7B6F94008A09FC /* PBXTargetDependency */,
+			);
+			name = colorvisorTests;
+			productName = colorvisorTests;
+			productReference = DA430E081A7B6F94008A09FC /* colorvisorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DA430DE71A7B6F94008A09FC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = "Paul Burkeland";
+				TargetAttributes = {
+					DA430DEE1A7B6F94008A09FC = {
+						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 7YEX56U78T;
+					};
+					DA430E071A7B6F94008A09FC = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = DA430DEE1A7B6F94008A09FC;
+					};
+				};
+			};
+			buildConfigurationList = DA430DEA1A7B6F94008A09FC /* Build configuration list for PBXProject "colorvisor" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DA430DE61A7B6F94008A09FC;
+			productRefGroup = DA430DF01A7B6F94008A09FC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DA430DEE1A7B6F94008A09FC /* colorvisor */,
+				DA430E071A7B6F94008A09FC /* colorvisorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DA430DED1A7B6F94008A09FC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DA4743221A8A9A3E00BB51CA /* Icon-Small@3x.png in Resources */,
+				DA86C92C1A96243300CF75E8 /* colorLAB_Crayola120.plist in Resources */,
+				DA430E191A7B70A0008A09FC /* Settings.bundle in Resources */,
+				DA430DFE1A7B6F94008A09FC /* Main.storyboard in Resources */,
+				DA47431F1A8A9A3E00BB51CA /* Icon-76@2x.png in Resources */,
+				DA86C92A1A961F1000CF75E8 /* colorLAB_SherwinWilliams.plist in Resources */,
+				DA430E031A7B6F94008A09FC /* LaunchScreen.xib in Resources */,
+				DA2B43031A89CF41006217E1 /* colorRGB_colorvisor125.plist in Resources */,
+				DA47431B1A8A9A3E00BB51CA /* Icon-40@3x.png in Resources */,
+				DA4743211A8A9A3E00BB51CA /* Icon-Small@2x.png in Resources */,
+				DA4742EE1A8A8EFE00BB51CA /* colorvisor_1024.png in Resources */,
+				DAC7AFA21A8CB03A002EDBB3 /* colorvisor-568h.png in Resources */,
+				DAE223E81A953C2D003D529F /* colorRGB_SherwinWilliams.plist in Resources */,
+				DA4743201A8A9A3E00BB51CA /* Icon-Small.png in Resources */,
+				DA47431C1A8A9A3E00BB51CA /* Icon-60@2x.png in Resources */,
+				DAFEA3A61A921E3300CFCA30 /* colorRGB_Crayola120.plist in Resources */,
+				DA4743241A8A9B7800BB51CA /* colorvisor_320x480.png in Resources */,
+				DA25059C1A83F19900BE71EF /* next_steps.txt in Resources */,
+				DA4743091A8A938C00BB51CA /* Images.xcassets in Resources */,
+				DA4743191A8A9A3E00BB51CA /* Icon-40.png in Resources */,
+				DAC7AFA31A8CB03A002EDBB3 /* colorvisor-568h@2x.png in Resources */,
+				DA86C9301A962B1D00CF75E8 /* colorLAB_PantoneCoated.plist in Resources */,
+				DA86C92E1A9625FE00CF75E8 /* colorLAB_colorvisor125.plist in Resources */,
+				DA47430D1A8A948B00BB51CA /* Icon-57@2x.png in Resources */,
+				DAAECBEA1A7DAB73002B8D4D /* colorRGB_PantoneCoated.plist in Resources */,
+				DA47431A1A8A9A3E00BB51CA /* Icon-40@2x.png in Resources */,
+				DA4743261A8A9BAB00BB51CA /* colorvisor_640x960.png in Resources */,
+				DA47430B1A8A944B00BB51CA /* Icon-57.png in Resources */,
+				DA47431D1A8A9A3E00BB51CA /* Icon-60@3x.png in Resources */,
+				DA430E271A7BC1AE008A09FC /* crosshair1.png in Resources */,
+				DA47431E1A8A9A3E00BB51CA /* Icon-76.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DA430E061A7B6F94008A09FC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		DA7475931A8E247B0038290B /* Run Script */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Run Script";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/bash;
+			shellScript = "buildNumber=$(/usr/libexec/PlistBuddy -c \"Print CFBundleVersion\" \"$INFOPLIST_FILE\")\nbuildNumber=$(($buildNumber + 1))\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $buildNumber\" \"$INFOPLIST_FILE\"";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DA430DEB1A7B6F94008A09FC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DA430E291A7C85C6008A09FC /* colorMapper.m in Sources */,
+				DA430DFB1A7B6F94008A09FC /* ViewController.m in Sources */,
+				DA430DF81A7B6F94008A09FC /* AppDelegate.m in Sources */,
+				DA25059F1A84E7F800BE71EF /* cameraController.m in Sources */,
+				DA7475961A8E4D540038290B /* SettingsViewController.m in Sources */,
+				DA430DF51A7B6F94008A09FC /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DA430E041A7B6F94008A09FC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DA430E0F1A7B6F94008A09FC /* colorvisorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DA430E0A1A7B6F94008A09FC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DA430DEE1A7B6F94008A09FC /* colorvisor */;
+			targetProxy = DA430E091A7B6F94008A09FC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		DA430DFC1A7B6F94008A09FC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DA430DFD1A7B6F94008A09FC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DA430E011A7B6F94008A09FC /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DA430E021A7B6F94008A09FC /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DA430E101A7B6F94008A09FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		DA430E111A7B6F94008A09FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				ONLY_ACTIVE_ARCH = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DA430E131A7B6F94008A09FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = colorvisor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		DA430E141A7B6F94008A09FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = colorvisor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		DA430E161A7B6F94008A09FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = colorvisorTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/colorvisor.app/colorvisor";
+			};
+			name = Debug;
+		};
+		DA430E171A7B6F94008A09FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = colorvisorTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/colorvisor.app/colorvisor";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DA430DEA1A7B6F94008A09FC /* Build configuration list for PBXProject "colorvisor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DA430E101A7B6F94008A09FC /* Debug */,
+				DA430E111A7B6F94008A09FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DA430E121A7B6F94008A09FC /* Build configuration list for PBXNativeTarget "colorvisor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DA430E131A7B6F94008A09FC /* Debug */,
+				DA430E141A7B6F94008A09FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DA430E151A7B6F94008A09FC /* Build configuration list for PBXNativeTarget "colorvisorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DA430E161A7B6F94008A09FC /* Debug */,
+				DA430E171A7B6F94008A09FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DA430DE71A7B6F94008A09FC /* Project object */;
+}

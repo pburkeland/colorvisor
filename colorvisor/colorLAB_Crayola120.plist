@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Mahogany</key>
+    <array>
+        <integer>50</integer>
+        <integer>52</integer>
+        <integer>28</integer>
+    </array>
+    <key>Fuzzy Wuzzy Brown</key>
+    <array>
+        <integer>55</integer>
+        <integer>40</integer>
+        <integer>19</integer>
+    </array>
+    <key>Chestnut</key>
+    <array>
+        <integer>51</integer>
+        <integer>38</integer>
+        <integer>21</integer>
+    </array>
+    <key>Red Orange</key>
+    <array>
+        <integer>60</integer>
+        <integer>64</integer>
+        <integer>43</integer>
+    </array>
+    <key>Sunset Orange</key>
+    <array>
+        <integer>61</integer>
+        <integer>60</integer>
+        <integer>39</integer>
+    </array>
+    <key>Bittersweet</key>
+    <array>
+        <integer>67</integer>
+        <integer>48</integer>
+        <integer>31</integer>
+    </array>
+    <key>Melon</key>
+    <array>
+        <integer>82</integer>
+        <integer>22</integer>
+        <integer>13</integer>
+    </array>
+    <key>Outrageous Orange</key>
+    <array>
+        <integer>64</integer>
+        <integer>53</integer>
+        <integer>47</integer>
+    </array>
+    <key>Vivid Tangerine</key>
+    <array>
+        <integer>75</integer>
+        <integer>33</integer>
+        <integer>27</integer>
+    </array>
+    <key>Burnt Sienna</key>
+    <array>
+        <integer>64</integer>
+        <integer>39</integer>
+        <integer>36</integer>
+    </array>
+    <key>Brown</key>
+    <array>
+        <integer>52</integer>
+        <integer>28</integer>
+        <integer>28</integer>
+    </array>
+    <key>Sepia</key>
+    <array>
+        <integer>50</integer>
+        <integer>21</integer>
+        <integer>25</integer>
+    </array>
+    <key>Orange</key>
+    <array>
+        <integer>65</integer>
+        <integer>49</integer>
+        <integer>57</integer>
+    </array>
+    <key>Burnt Orange</key>
+    <array>
+        <integer>67</integer>
+        <integer>45</integer>
+        <integer>51</integer>
+    </array>
+    <key>Copper</key>
+    <array>
+        <integer>68</integer>
+        <integer>24</integer>
+        <integer>28</integer>
+    </array>
+    <key>Mango Tango</key>
+    <array>
+        <integer>68</integer>
+        <integer>43</integer>
+        <integer>54</integer>
+    </array>
+    <key>Atomic Tangerine</key>
+    <array>
+        <integer>75</integer>
+        <integer>29</integer>
+        <integer>39</integer>
+    </array>
+    <key>Beaver</key>
+    <array>
+        <integer>56</integer>
+        <integer>9</integer>
+        <integer>14</integer>
+    </array>
+    <key>Antique Brass</key>
+    <array>
+        <integer>66</integer>
+        <integer>17</integer>
+        <integer>25</integer>
+    </array>
+    <key>Desert Sand</key>
+    <array>
+        <integer>85</integer>
+        <integer>9</integer>
+        <integer>15</integer>
+    </array>
+    <key>Raw Sienna</key>
+    <array>
+        <integer>64</integer>
+        <integer>24</integer>
+        <integer>38</integer>
+    </array>
+    <key>Tumbleweed</key>
+    <array>
+        <integer>74</integer>
+        <integer>15</integer>
+        <integer>25</integer>
+    </array>
+    <key>Tan</key>
+    <array>
+        <integer>75</integer>
+        <integer>25</integer>
+        <integer>43</integer>
+    </array>
+    <key>Peach</key>
+    <array>
+        <integer>86</integer>
+        <integer>12</integer>
+        <integer>24</integer>
+    </array>
+    <key>Macaroni and Cheese</key>
+    <array>
+        <integer>82</integer>
+        <integer>18</integer>
+        <integer>36</integer>
+    </array>
+    <key>Apricot</key>
+    <array>
+        <integer>89</integer>
+        <integer>7</integer>
+        <integer>22</integer>
+    </array>
+    <key>Neon Carrot</key>
+    <array>
+        <integer>75</integer>
+        <integer>26</integer>
+        <integer>62</integer>
+    </array>
+    <key>Almond</key>
+    <array>
+        <integer>88</integer>
+        <integer>3</integer>
+        <integer>13</integer>
+    </array>
+    <key>Yellow Orange</key>
+    <array>
+        <integer>79</integer>
+        <integer>17</integer>
+        <integer>59</integer>
+    </array>
+    <key>Gold</key>
+    <array>
+        <integer>82</integer>
+        <integer>5</integer>
+        <integer>28</integer>
+    </array>
+    <key>Shadow</key>
+    <array>
+        <integer>52</integer>
+        <integer>2</integer>
+        <integer>18</integer>
+    </array>
+    <key>Banana Mania</key>
+    <array>
+        <integer>92</integer>
+        <integer>-1</integer>
+        <integer>27</integer>
+    </array>
+    <key>Sunglow</key>
+    <array>
+        <integer>85</integer>
+        <integer>4</integer>
+        <integer>70</integer>
+    </array>
+    <key>Goldenrod</key>
+    <array>
+        <integer>88</integer>
+        <integer>0</integer>
+        <integer>53</integer>
+    </array>
+    <key>Dandelion</key>
+    <array>
+        <integer>88</integer>
+        <integer>-1</integer>
+        <integer>58</integer>
+    </array>
+    <key>Yellow</key>
+    <array>
+        <integer>92</integer>
+        <integer>-6</integer>
+        <integer>51</integer>
+    </array>
+    <key>Green Yellow</key>
+    <array>
+        <integer>91</integer>
+        <integer>-9</integer>
+        <integer>43</integer>
+    </array>
+    <key>Spring Green</key>
+    <array>
+        <integer>92</integer>
+        <integer>-6</integer>
+        <integer>22</integer>
+    </array>
+    <key>Olive Green</key>
+    <array>
+        <integer>73</integer>
+        <integer>-10</integer>
+        <integer>39</integer>
+    </array>
+    <key>Laser Lemon</key>
+    <array>
+        <integer>97</integer>
+        <integer>-17</integer>
+        <integer>64</integer>
+    </array>
+    <key>Unmellow Yellow</key>
+    <array>
+        <integer>97</integer>
+        <integer>-17</integer>
+        <integer>64</integer>
+    </array>
+    <key>Canary</key>
+    <array>
+        <integer>98</integer>
+        <integer>-14</integer>
+        <integer>49</integer>
+    </array>
+    <key>Yellow Green</key>
+    <array>
+        <integer>86</integer>
+        <integer>-25</integer>
+        <integer>43</integer>
+    </array>
+    <key>Inch Worm</key>
+    <array>
+        <integer>87</integer>
+        <integer>-40</integer>
+        <integer>62</integer>
+    </array>
+    <key>Asparagus</key>
+    <array>
+        <integer>65</integer>
+        <integer>-23</integer>
+        <integer>28</integer>
+    </array>
+    <key>Granny Smith Apple</key>
+    <array>
+        <integer>85</integer>
+        <integer>-32</integer>
+        <integer>27</integer>
+    </array>
+    <key>Electric Lime</key>
+    <array>
+        <integer>86</integer>
+        <integer>-83</integer>
+        <integer>80</integer>
+    </array>
+    <key>Screamin Green</key>
+    <array>
+        <integer>90</integer>
+        <integer>-63</integer>
+        <integer>52</integer>
+    </array>
+    <key>Fern</key>
+    <array>
+        <integer>70</integer>
+        <integer>-38</integer>
+        <integer>27</integer>
+    </array>
+    <key>Forest Green</key>
+    <array>
+        <integer>66</integer>
+        <integer>-31</integer>
+        <integer>17</integer>
+    </array>
+    <key>Sea Green</key>
+    <array>
+        <integer>85</integer>
+        <integer>-28</integer>
+        <integer>10</integer>
+    </array>
+    <key>Green</key>
+    <array>
+        <integer>63</integer>
+        <integer>-48</integer>
+        <integer>17</integer>
+    </array>
+    <key>Mountain Meadow</key>
+    <array>
+        <integer>68</integer>
+        <integer>-46</integer>
+        <integer>12</integer>
+    </array>
+    <key>Shamrock</key>
+    <array>
+        <integer>75</integer>
+        <integer>-47</integer>
+        <integer>11</integer>
+    </array>
+    <key>Jungle Green</key>
+    <array>
+        <integer>65</integer>
+        <integer>-41</integer>
+        <integer>7</integer>
+    </array>
+    <key>Caribbean Green</key>
+    <array>
+        <integer>76</integer>
+        <integer>-54</integer>
+        <integer>12</integer>
+    </array>
+    <key>Tropical Rain Forest</key>
+    <array>
+        <integer>48</integer>
+        <integer>-33</integer>
+        <integer>2</integer>
+    </array>
+    <key>Pine Green</key>
+    <array>
+        <integer>48</integer>
+        <integer>-30</integer>
+        <integer>-4</integer>
+    </array>
+    <key>Robin Egg Blue</key>
+    <array>
+        <integer>75</integer>
+        <integer>-41</integer>
+        <integer>-10</integer>
+    </array>
+    <key>Aquamarine</key>
+    <array>
+        <integer>82</integer>
+        <integer>-27</integer>
+        <integer>-12</integer>
+    </array>
+    <key>Turquoise Blue</key>
+    <array>
+        <integer>83</integer>
+        <integer>-27</integer>
+        <integer>-14</integer>
+    </array>
+    <key>Sky Blue</key>
+    <array>
+        <integer>82</integer>
+        <integer>-23</integer>
+        <integer>-17</integer>
+    </array>
+    <key>Outer Space</key>
+    <array>
+        <integer>31</integer>
+        <integer>-3</integer>
+        <integer>-2</integer>
+    </array>
+    <key>Blue Green</key>
+    <array>
+        <integer>60</integer>
+        <integer>-22</integer>
+        <integer>-25</integer>
+    </array>
+    <key>Pacific Blue</key>
+    <array>
+        <integer>64</integer>
+        <integer>-24</integer>
+        <integer>-26</integer>
+    </array>
+    <key>Cerulean</key>
+    <array>
+        <integer>65</integer>
+        <integer>-21</integer>
+        <integer>-31</integer>
+    </array>
+    <key>Cornflower</key>
+    <array>
+        <integer>80</integer>
+        <integer>-10</integer>
+        <integer>-20</integer>
+    </array>
+    <key>Midnight Blue</key>
+    <array>
+        <integer>30</integer>
+        <integer>2</integer>
+        <integer>-31</integer>
+    </array>
+    <key>Navy Blue</key>
+    <array>
+        <integer>49</integer>
+        <integer>10</integer>
+        <integer>-55</integer>
+    </array>
+    <key>Denim</key>
+    <array>
+        <integer>46</integer>
+        <integer>11</integer>
+        <integer>-52</integer>
+    </array>
+    <key>Blue</key>
+    <array>
+        <integer>52</integer>
+        <integer>26</integer>
+        <integer>-75</integer>
+    </array>
+    <key>Periwinkle</key>
+    <array>
+        <integer>83</integer>
+        <integer>1</integer>
+        <integer>-12</integer>
+    </array>
+    <key>Cadet Blue</key>
+    <array>
+        <integer>74</integer>
+        <integer>1</integer>
+        <integer>-8</integer>
+    </array>
+    <key>Indigo</key>
+    <array>
+        <integer>51</integer>
+        <integer>16</integer>
+        <integer>-47</integer>
+    </array>
+    <key>Wild Blue Yonder</key>
+    <array>
+        <integer>71</integer>
+        <integer>4</integer>
+        <integer>-19</integer>
+    </array>
+    <key>Manatee</key>
+    <array>
+        <integer>64</integer>
+        <integer>2</integer>
+        <integer>-9</integer>
+    </array>
+    <key>Blue Bell</key>
+    <array>
+        <integer>72</integer>
+        <integer>8</integer>
+        <integer>-21</integer>
+    </array>
+    <key>Blue Violet</key>
+    <array>
+        <integer>48</integer>
+        <integer>26</integer>
+        <integer>-44</integer>
+    </array>
+    <key>Purple Heart</key>
+    <array>
+        <integer>41</integer>
+        <integer>50</integer>
+        <integer>-62</integer>
+    </array>
+    <key>Royal Purple</key>
+    <array>
+        <integer>42</integer>
+        <integer>35</integer>
+        <integer>-41</integer>
+    </array>
+    <key>Purple Mountains’ Majesty</key>
+    <array>
+        <integer>58</integer>
+        <integer>22</integer>
+        <integer>-26</integer>
+    </array>
+    <key>Violet (Purple)</key>
+    <array>
+        <integer>52</integer>
+        <integer>27</integer>
+        <integer>-29</integer>
+    </array>
+    <key>Wisteria</key>
+    <array>
+        <integer>73</integer>
+        <integer>25</integer>
+        <integer>-24</integer>
+    </array>
+    <key>Vivid Violet</key>
+    <array>
+        <integer>44</integer>
+        <integer>39</integer>
+        <integer>-31</integer>
+    </array>
+    <key>Fuchsia</key>
+    <array>
+        <integer>57</integer>
+        <integer>52</integer>
+        <integer>-34</integer>
+    </array>
+    <key>Shocking Pink</key>
+    <array>
+        <integer>71</integer>
+        <integer>64</integer>
+        <integer>-43</integer>
+    </array>
+    <key>Pink Flamingo</key>
+    <array>
+        <integer>70</integer>
+        <integer>69</integer>
+        <integer>-45</integer>
+    </array>
+    <key>Plum</key>
+    <array>
+        <integer>41</integer>
+        <integer>40</integer>
+        <integer>-22</integer>
+    </array>
+    <key>Hot Magenta</key>
+    <array>
+        <integer>59</integer>
+        <integer>90</integer>
+        <integer>-36</integer>
+    </array>
+    <key>Purple Pizzazz</key>
+    <array>
+        <integer>59</integer>
+        <integer>90</integer>
+        <integer>-36</integer>
+    </array>
+    <key>Razzle Dazzle Rose</key>
+    <array>
+        <integer>62</integer>
+        <integer>80</integer>
+        <integer>-32</integer>
+    </array>
+    <key>Orchid</key>
+    <array>
+        <integer>76</integer>
+        <integer>30</integer>
+        <integer>-15</integer>
+    </array>
+    <key>Red Violet</key>
+    <array>
+        <integer>49</integer>
+        <integer>57</integer>
+        <integer>-15</integer>
+    </array>
+    <key>Eggplant</key>
+    <array>
+        <integer>38</integer>
+        <integer>15</integer>
+        <integer>-4</integer>
+    </array>
+    <key>Cerise</key>
+    <array>
+        <integer>54</integer>
+        <integer>65</integer>
+        <integer>-9</integer>
+    </array>
+    <key>Wild Strawberry</key>
+    <array>
+        <integer>60</integer>
+        <integer>77</integer>
+        <integer>-10</integer>
+    </array>
+    <key>Magenta</key>
+    <array>
+        <integer>63</integer>
+        <integer>63</integer>
+        <integer>-11</integer>
+    </array>
+    <key>Lavender</key>
+    <array>
+        <integer>81</integer>
+        <integer>31</integer>
+        <integer>-6</integer>
+    </array>
+    <key>Cotton Candy</key>
+    <array>
+        <integer>83</integer>
+        <integer>28</integer>
+        <integer>-5</integer>
+    </array>
+    <key>Violet Red</key>
+    <array>
+        <integer>60</integer>
+        <integer>67</integer>
+        <integer>-1</integer>
+    </array>
+    <key>Carnation Pink</key>
+    <array>
+        <integer>79</integer>
+        <integer>36</integer>
+        <integer>-4</integer>
+    </array>
+    <key>Razzmatazz</key>
+    <array>
+        <integer>50</integer>
+        <integer>72</integer>
+        <integer>10</integer>
+    </array>
+    <key>Piggy Pink</key>
+    <array>
+        <integer>89</integer>
+        <integer>15</integer>
+        <integer>-1</integer>
+    </array>
+    <key>Jazzberry Jam</key>
+    <array>
+        <integer>47</integer>
+        <integer>60</integer>
+        <integer>7</integer>
+    </array>
+    <key>Blush</key>
+    <array>
+        <integer>57</integer>
+        <integer>54</integer>
+        <integer>5</integer>
+    </array>
+    <key>Tickle Me Pink</key>
+    <array>
+        <integer>71</integer>
+        <integer>47</integer>
+        <integer>1</integer>
+    </array>
+    <key>Pink Sherbet</key>
+    <array>
+        <integer>68</integer>
+        <integer>49</integer>
+        <integer>3</integer>
+    </array>
+    <key>Maroon</key>
+    <array>
+        <integer>47</integer>
+        <integer>58</integer>
+        <integer>14</integer>
+    </array>
+    <key>Red</key>
+    <array>
+        <integer>52</integer>
+        <integer>74</integer>
+        <integer>30</integer>
+    </array>
+    <key>Radical Red</key>
+    <array>
+        <integer>59</integer>
+        <integer>70</integer>
+        <integer>22</integer>
+    </array>
+    <key>Mauvelous</key>
+    <array>
+        <integer>72</integer>
+        <integer>35</integer>
+        <integer>4</integer>
+    </array>
+    <key>Wild Watermelon</key>
+    <array>
+        <integer>64</integer>
+        <integer>57</integer>
+        <integer>14</integer>
+    </array>
+    <key>Scarlet</key>
+    <array>
+        <integer>55</integer>
+        <integer>76</integer>
+        <integer>38</integer>
+    </array>
+    <key>Salmon</key>
+    <array>
+        <integer>75</integer>
+        <integer>39</integer>
+        <integer>8</integer>
+    </array>
+    <key>Brick Red</key>
+    <array>
+        <integer>48</integer>
+        <integer>56</integer>
+        <integer>20</integer>
+    </array>
+    <key>White</key>
+    <array>
+        <integer>94</integer>
+        <integer>0</integer>
+        <integer>-0</integer>
+    </array>
+    <key>Timberwolf</key>
+    <array>
+        <integer>86</integer>
+        <integer>0</integer>
+        <integer>3</integer>
+    </array>
+    <key>Silver</key>
+    <array>
+        <integer>80</integer>
+        <integer>2</integer>
+        <integer>2</integer>
+    </array>
+    <key>Gray</key>
+    <array>
+        <integer>60</integer>
+        <integer>1</integer>
+        <integer>3</integer>
+    </array>
+    <key>Black</key>
+    <array>
+        <integer>14</integer>
+        <integer>0</integer>
+        <integer>-0</integer>
+    </array>
+</dict>
+</plist>
